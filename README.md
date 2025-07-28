@@ -27,9 +27,23 @@ I focus on creating apps that solve real-world problems and deliver a great user
   - User-friendly home dashboard
   - Secure login and account overview
   - Modeled after the real OPay app
-
+ 
+- **[P-meal (P-chow) – Food Delivery App](https://github.com/Praizy123214/P-meal.git)**  
+  A **food ordering and delivery app** featuring:
+  - Real-time order tracking
+  - Menu browsing and meal selection
+  - Secure checkout and payment simulation
+  - Designed for fast, reliable food delivery
+    
 - **[Workout & Fitness Tracker](https://github.com/Praizy123214/Fitness-app.git)**  
   Track workouts, set goals, and monitor fitness progress with:
   - Workout and exercise logging
   - Water intake tracking and progress badges
   - Personalized fitness goals and reminders
+
+## Connect With Me
+- **Email:** praiseufomba@gmail.com  
+- **LinkedIn:** [linkedin.com/in/praise-ufomba-8485a730a](https://www.linkedin.com/in/praise-ufomba-8485a730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- **GitHub:** [github.com/Praizy123214](https://github.com/Praizy123214)
+
+
