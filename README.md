@@ -21,7 +21,7 @@ I focus on creating apps that solve real-world problems and deliver a great user
   - Notifications for updates and order tracking
   - Profile management for users
  
-- - **[Opay Banking App](https://github.com/Praizy123214/Opay-project.git)**  
+-  **[Opay Banking App](https://github.com/Praizy123214/Opay-project.git)**  
   A **banking and finance app clone** featuring:
   - Digital wallet and transaction management
   - User-friendly home dashboard
