@@ -20,3 +20,9 @@ I focus on creating apps that solve real-world problems and deliver a great user
   - Feeds to explore offers and services
   - Notifications for updates and order tracking
   - Profile management for users
+
+- **[Workout & Fitness Tracker](https://github.com/Praizy123214/Fitness-app.git)**  
+  Track workouts, set goals, and monitor fitness progress with:
+  - Workout and exercise logging
+  - Water intake tracking and progress badges
+  - Personalized fitness goals and reminders
