@@ -20,6 +20,13 @@ I focus on creating apps that solve real-world problems and deliver a great user
   - Feeds to explore offers and services
   - Notifications for updates and order tracking
   - Profile management for users
+ 
+- - **[Opay Banking App](https://github.com/Praizy123214/Opay-project.git)**  
+  A **banking and finance app clone** featuring:
+  - Digital wallet and transaction management
+  - User-friendly home dashboard
+  - Secure login and account overview
+  - Modeled after the real OPay app
 
 - **[Workout & Fitness Tracker](https://github.com/Praizy123214/Fitness-app.git)**  
   Track workouts, set goals, and monitor fitness progress with:
